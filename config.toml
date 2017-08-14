@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "Test"
+baseURL = "https:\/\/google.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "521"
+subfolder = ""
+firstpartycookies = true
+cookiedomain = "google.com"
